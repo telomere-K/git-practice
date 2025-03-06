@@ -1,3 +1,9 @@
 add check
 
 개발내용 2 - commit check
+
+
+
+리셋용 확인함
+
+수정사항 1
