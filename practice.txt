@@ -6,4 +6,5 @@ add check
 
 리셋용 확인함
 
-수정사항 1 conflict1
+수정사항 1 conflict1 conflict2
+
